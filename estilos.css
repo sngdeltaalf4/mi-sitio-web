@@ -1,0 +1,81 @@
+.body{
+	 background-image: url('https://us.123rf.com/450wm/golubovy/golubovy1906/golubovy190600326/124399924-fondo-de-arte-abstracto-de-textura-de-fieltro-azul-oscuro-superficie-de-cart%C3%B3n-de-color-copie-el-esp.jpg?ver=6');
+	 background-repeat: no-repeat;
+	 background-size: 100%;
+}
+.fondo{
+	 background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVUOCt1t98KAPIByzUw5wufcHAegXIR-fZg&usqp=CAU');
+	 background-repeat: no-repeat;
+	 background-size: 100%;
+}
+.hobb{
+	 background-image: url('https://fondosmil.com/fondo/27095.jpg');
+	 background-repeat: no-repeat;
+	 background-size: 100%;
+}
+
+.ti{
+	font-family: cursive;
+	font-size: 40px;
+	text-align: center;
+}
+.letra{
+	font-family: cursive;
+	font-size: 29px;
+	text-align: center;
+}
+#divimagen{
+	display: flex;
+	align-items: center;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.p{
+color: ;
+background: ;
+position:absolute; /*El div será ubicado con relación a la pantalla*/
+left:300px; /*A la derecha deje un espacio de 0px*/
+right:0px; /*A la izquierda deje un espacio de 0px*/
+ /*Abajo deje un espacio de 0px*/
+height:50px; /*alto del div*/
+z-index:0;
+}
+
+.t{
+color: ;
+background: ;
+position:absolute; /*El div será ubicado con relación a la pantalla*/
+left:600px; /*A la derecha deje un espacio de 0px*/
+right:0px; /*A la izquierda deje un espacio de 0px*/
+ /*Abajo deje un espacio de 0px*/
+height:50px; /*alto del div*/
+z-index:0;
+}
+
+.tip{
+color: ;
+background: ;
+position:absolute; /*El div será ubicado con relación a la pantalla*/
+left:900px; /*A la derecha deje un espacio de 0px*/
+right:0px; /*A la izquierda deje un espacio de 0px*/
+ /*Abajo deje un espacio de 0px*/
+height:50px; /*alto del div*/
+z-index:0;
+}
+.hobbie{
+color: ;
+background: ;
+position:absolute; /*El div será ubicado con relación a la pantalla*/
+left:1200px; /*A la derecha deje un espacio de 0px*/
+right:0px; /*A la izquierda deje un espacio de 0px*/
+ /*Abajo deje un espacio de 0px*/
+height:50px; /*alto del div*/
+z-index:0;
+}
+.ca {
+  border: 2px solid #000;
+  padding: 20px;
+  border-radius: 30px;
+  background-color: #38b5ab;
+}
